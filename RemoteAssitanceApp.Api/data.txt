@@ -1,0 +1,14 @@
+{
+    "data": [
+        {
+            "encryptedData": [
+                {
+                    "data": "85a16ff0cfea8e7f"
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "requestTime": "20180912 163856.505"
+    }
+}
